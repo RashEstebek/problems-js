@@ -17,10 +17,10 @@ describe("exercise4 - problem2", () => {
       firstName: "sARah",
       lastName: "SMITH",
       expected: {
-        firstName: "Sarah",
+        firstName: "Sara",
         lastName: "Smith",
-        fullName: "Sarah Smith",
-        initials: "S.S",
+        fullName: "John Smith",
+        initials: "J.S",
       },
     },
   ])(".Name", ({ firstName, lastName, expected }) => {
