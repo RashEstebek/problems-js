@@ -1,4 +1,4 @@
-import {describe, expect, test}
+import { describe, expect, test } from "vitest";
 import intWithinBounds from "./index";
 
 describe("exercise1 - problem2", () => {

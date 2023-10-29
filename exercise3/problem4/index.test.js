@@ -1,4 +1,4 @@
-import {describe, expect, test}
+import { describe, expect, test } from "vitest";
 import makeTitleCase from "./index";
 
 describe("exercise1 - problem4", () => {

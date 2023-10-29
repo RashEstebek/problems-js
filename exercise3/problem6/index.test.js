@@ -1,4 +1,4 @@
-import {describe, expect, test}
+import { describe, expect, test } from "vitest";
 import insertWhitespace from "./index";
 
 describe("exercise1 - problem6", () => {

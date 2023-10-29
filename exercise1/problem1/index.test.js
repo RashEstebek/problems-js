@@ -1,4 +1,4 @@
-import { describe, expect, test } 
+import { describe, expect, test } from "vitest"; 
 import numOfDigits from "./index";
 
 describe("exercise1 - problem1", () => {

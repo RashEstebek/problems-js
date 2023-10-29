@@ -1,4 +1,4 @@
-import {describe, expect, test}
+import { describe, expect, test } from "vitest";
 import pentagonal from "./index";
 
 describe("exercise1 - problem3", () => {

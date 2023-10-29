@@ -1,4 +1,4 @@
-import {describe, expect, test}
+import { describe, expect, test } from "vitest";
 import concat from "./index";
 
 describe("exercise2 - problem1", () => {

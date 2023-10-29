@@ -60,6 +60,7 @@ export function sendLetterTo(accounts: (FedexAccount | KazPostAccount)[], recipi
   }
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 const normanOsborne = new BankAccount();
 const peterParker = new FedexAccount();
@@ -70,3 +71,5 @@ sendLetterTo([peterParker, auntMay], "Mary Jane"); // no error
 // withdrawMoney([peterParker, auntMay], 10); // peterParker error
 =======
 >>>>>>> b30e4c6347463726cae2f3b2120d265d95e21ba2
+=======
+>>>>>>> 78bd007deddd7fb8ba5fcf95636a3c40cbed2d8c
